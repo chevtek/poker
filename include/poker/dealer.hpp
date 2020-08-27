@@ -5,6 +5,7 @@
 #include <bitset>
 #include <climits>
 #include <new>
+#include <iterator>
 
 #include <poker/community_cards.hpp>
 #include <poker/deck.hpp>
